@@ -29,5 +29,5 @@ int main() {
 
         cout<<res<<endl;
     }
-    return 0;
+    return 0; 
 }
